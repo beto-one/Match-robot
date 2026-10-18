@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.MathRobot" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#070B1F</item>
+        <item name="android:navigationBarColor">#3B0F5E</item>
+        <item name="android:windowBackground">#070B1F</item>
+    </style>
+</resources>
